@@ -1,0 +1,6 @@
+{
+  "+08:00": { "CN": "China", "PH": "Philippines" },
+  "+09:00": { "JP": "Japan", "KR": "South Korea" },
+  "+10:00": { "AU": "Australia", "PG": "Papua New Guinea" },
+  "+13:00": { "KI": "Kiribati" }
+}

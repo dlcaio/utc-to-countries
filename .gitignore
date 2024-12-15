@@ -1,0 +1,4 @@
+coverage/
+map.json
+!test/mocks/map.json
+node_modules
